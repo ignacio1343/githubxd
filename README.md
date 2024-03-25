@@ -1,3 +1,3 @@
 Repositorio colaborativo
 
-#usando github en pares
+#usando github en paress
