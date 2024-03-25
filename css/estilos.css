@@ -1,0 +1,19 @@
+.historiacss{
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulos{
+    text-align: center;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+    height: 500;
+    width: 300;
+}
